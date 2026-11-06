@@ -1,4 +1,4 @@
-# FORMA Offline-PWA
+# Kraftpfad Offline-PWA
 
 Diese Variante ist für Installation auf dem iPhone vorbereitet. Einmal über HTTPS öffnen; danach funktioniert die App-Oberfläche offline.
 

@@ -1,7 +1,7 @@
 {
   "id": "./index.html",
-  "name": "FORMA · Training",
-  "short_name": "FORMA",
+  "name": "Kraftpfad · Training",
+  "short_name": "Kraftpfad",
   "description": "Trainingsplan und Trainingsverlauf – auch offline.",
   "lang": "de-DE",
   "start_url": "./index.html",
